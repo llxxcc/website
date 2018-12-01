@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1022.000000, -16.000000)" fill="#FFFFFF">
+            <g id="导航">
+                <g id="文案">
+                    <g id="Group-3" transform="translate(960.000000, 16.000000)">
+                        <path d="M82.7169128,24.2123509 L76.8301414,21.5249464 L74.3349219,24.2123509 L74.3349219,20.5652082 L85.5047804,9.30337807 L72.1590739,19.4132538 L68,17.2936627 L88,7 L82.7169128,24.2123509 Z M78,0 C69.1635101,0 62,7.16347064 62,16 C62,24.8365294 69.1635101,32 78,32 C86.8365294,32 94,24.8365294 94,16 C94,7.16347064 86.8365294,0 78,0 Z" id="Fill-1"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

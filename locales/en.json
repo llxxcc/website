@@ -1,0 +1,117 @@
+{
+  "Index": {
+    "Header": {
+      "anchor1": "Home",
+      "anchor2": "DEX",
+      "anchor3": "Token",
+      "anchor4": "DApp",
+      "anchor5": "Roadmap"
+    },
+    "page1": {
+      "t1": "Game of Chain",
+      "t2": "",
+      "p1": "Game of Chain (GOC) is a decentralized, safe and transparent application development platform based on the TRON blockchain.",
+      "p2": "It mainly provides services including GOC decentralized exchange (DEX) and decentralized gaming platforms.",
+      "p3": "The GOC team is dedicated to building a vibrant community, providing convenient, user-friendly decentralized applications (DApps) for users and DApp infrastructure for developers.",
+      "btn1": "GOC DEX",
+      "btn2": "GOC Token"
+    },
+    "page2": {
+      "btn": "GOC DEX",
+      "t": "GOC DEX",
+      "p1": "A decentralized exchange based on the TRON ecosystem; supports both TRC10 & TRC20 trading.",
+      "p2": "Transparent trading information; a decentralized model that solves trust issues in common trading scenarios.",
+      "p3": "Zero threshold for token issuance; simple and convenient for users to trade.",
+      "p4": "Provides OEM service, developers can customize their own DEX development"
+    },
+    "page3": {
+      "t": "GOC token",
+      "item1-t": "Basic information",
+      "item1-p1": "Token name：Game of Chain (GOC)",
+      "item1-p2": "Token circulation ：10billion",
+      "item2-t": "Reward mechanism",
+      "item2-p1": "GOC token holders can participate in the profit made by locking tokens on the platform",
+      "item2-p2": "The platform will buy back GOC, conduct and publicize coin burns",
+      "item3-t": "Application scenarios",
+      "item3-p1": "Holding GOC tokens earns you a discount on the processing fee on GOC DEX",
+      "item3-p2": "Supports all games on the GOC platform"
+    },
+    "page4": {
+      "t": "DApp platform",
+      "p1": "Build a decentralized gaming platform, integrating popular DApps in the TRON network. ",
+      "p2": "Provide DApp developers with multiple application services, including mining tools, real random number tools and game monitoring backstage.",
+      "p3": "Provide DApp developers with more infrastructure services, including SDK that supports multiple tokens, cross-chain technical services and high-performance DApp side chain realization. "
+    },
+    "page5": {
+      "item1-p1": "GOC DEX launch, supporting all TRC20 & TRC 10 token listing.",
+      "item2-p1": "GOC gaming DApp launch, supporting game play, betting and mining with GOC tokens; robot mining tools will also be available ",
+      "item2-p2": "GOC token holders enjoy an (unlimited) discount on the processing fee on GOC DEX",
+      "item3-p1": "Obtain Malta gambling license",
+      "item3-p2": "A one-stop platform that integrates wallets, DEX and DAppStore, connecting more TRON games",
+      "item3-p3": "DEX compatible with multiple ends",
+      "item3-project1": "Web browser",
+      "item3-project2": "mobile H5",
+      "item3-project3": "PC client",
+      "item3-project4": "IOS/Android",
+      "item3-project5": "",
+      "item3-project6": "",
+      "item4-p1": "GOC token is listed on mainstream exchanges, such as bithumb, Binance and Huobi",
+      "item4-p2": "followed by campaigns like airdrop and candy, etc.",
+      "item5-p1": "Explore more application scenarios in the TRON ecosystem",
+      "item5-p2": "GOC incubator, helping more TRON projects to land"
+    },
+    "Footer": {
+      "twitter": "Twitter",
+      "telegram": "Telegram",
+      "problem": "Contact Us"
+    }
+  },
+  "GocToken": {
+    "Header": {
+      "menu1": "GOC DEX"
+    },
+    "Kv": {
+      "title": "What is GOC?",
+      "p1": "GOC is the token issued by Game of Chain.",
+      "p2": "GOC token is a decentralized blockchain digital asset issued based on TRON, a TRC20 standard token based on the TRON blockchain. The total circulation is fixed at 10 billion, and it is guaranteed that there will never be any additional issuance."
+    },
+    "Value": {
+      "title": "GOC value",
+      "item1-title": "Deduction of trading processing fee on the GOC platform.",
+      "item1-text": [
+        "Currently the processing fee of GOC is 0.2% (charged based on the amount of assets collected).",
+        "Rules: 1. Different levels of processing fee discount according to the amount of GOC held. Detailed plans will be announced later."
+      ],
+      "item2-title": "Deduction of security deposit for the project.",
+      "item2-text": [
+        "Deduction of security deposit for listing: starting from 1 million TRX (10 million GOC).",
+        "After the deposit is locked, a project can unlock the fund batch by batch: 1st batch – 1/2 unlocked after 0.5 year; 1/12 unlocked in each following month until all is unlocked."
+      ],
+      "item3-title": "Payment for GOC online games",
+      "item3-text": [
+        "The Game of Chain team will develop many GOC-token-based TRON games, GOC tokens will be circulated."
+      ],
+      "item4-title": "Asset locking dividend",
+      "item4-text": [
+        "Profit participation will start 24 hrs after the GOC tokens are locked.",
+        "The dividend pool will be settled once every calendar day.",
+        "Funds in the dividend pool = 20% profit made on the platform each day."
+      ],
+      "item5-title": "Buyback & coinburn mechanism",
+      "item5-text": [
+        "After the GOC platform is launched, 20% of the profit made on the platform will be taken out each quarter to buy back GOC with the last recorded price. The GOC bought back will be burned directly; at the same time, information of the coin burn will be available on tronscan."
+      ]
+    },
+    "Wallet": {
+      "title": "GOC storage",
+      "item1-name": "iTron Wallet",
+      "item2-name": "Cobo Wallet",
+      "item3-name": "Math Wallet"
+    },
+    "Footer": {
+      "twitter": "Twitter",
+      "telegram": "Telegram",
+      "problem": "Contact Us"
+    }
+  }
+}

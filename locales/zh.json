@@ -1,0 +1,117 @@
+{
+  "Index": {
+    "Header": {
+      "anchor1": "首页",
+      "anchor2": "DEX",
+      "anchor3": "通证",
+      "anchor4": "DApp",
+      "anchor5": "路线图"
+    },
+    "page1": {
+      "t1": "Game of Chain",
+      "t2": "",
+      "p1": "Game of Chain是基于TRON区块链的去中心化、安全、透明的游戏开发平台。",
+      "p2": "主要业务涵盖去中心化交易所，去中心化游戏平台等。GOC团队致力于丰富TRON社区生态内容，",
+      "p3": "为用户提供便捷好玩的去中心化应用，为开发者提供去中心化应用的基础设施服务。",
+      "btn1": "GOC交易所",
+      "btn2": "GOC通证"
+    },
+    "page2": {
+      "btn": "去往交易所",
+      "t": "去中心化交易所",
+      "p1": "TRON生态的去中心交易所，同时支持TRC10 & TRC20交易。",
+      "p2": "交易信息公开透明，去中心化模式解决传统交易所信任危机。",
+      "p3": "上币零门槛，交易流程简单，用户操作便捷。",
+      "p4": "提供空投，糖果工具，用户可快速提升Token交易量；提供OEM服务，帮助开发者自定义开发自己的DEX。"
+    },
+    "page3": {
+      "t": "GOC通证",
+      "item1-t": "基本信息",
+      "item1-p1": "通证名称：Game of Chain (GOC)",
+      "item1-p2": "通证总发行量：100亿",
+      "item2-t": "回馈机制",
+      "item2-p1": "持有GOC可参与平台质押分红",
+      "item2-p2": "平台按季度回购GOC并销毁公示",
+      "item3-t": "应用场景",
+      "item3-p1": "持有GOC通证，在GOC去中心化交易所可以减免交易手续费。",
+      "item3-p2": "支持GOC平台所有游戏使用。"
+    },
+    "page4": {
+      "t": "DApp平台",
+      "p1": "搭建去中心化游戏服务平台，聚合TRON网络中热门的游戏类DApp。",
+      "p2": "为DApp开发者提供多种应用服务，如挖矿工具，真正随机数工具，游戏监控后台等。",
+      "p3": "为开发者提供更多基础设施服务，如开放全币种钱包的SDK，提供跨链技术的服务，实现高性能的DApp侧链等。"
+    },
+    "page5": {
+      "item1-p1": "GOC去中心化交易所上线，支持所有TRC20 & TRC10上币。",
+      "item2-p1": "GOC游戏Dapp上线，支持用GOC通证玩游戏，投注挖矿，并且提供机器人挖矿工具。",
+      "item2-p2": "持有GOC通证的用户在GOC交易所减免手续费，并且不限次数。",
+      "item3-p1": "取得马耳他博彩执照。",
+      "item3-p2": "集成钱包，去中心化交易所，和DAppStore的一站式游戏平台，同时接入更多的TRON游戏。",
+      "item3-p3": "交易所多终端支持",
+      "item3-project1": "WEB端浏览器",
+      "item3-project2": "移动端H5",
+      "item3-project3": "PC客户端",
+      "item3-project4": "Android客户端",
+      "item3-project5": "IOS客户端",
+      "item3-project6": "",
+      "item4-p1": "GOC通证登陆主流交易所，如币安，火币等。",
+      "item4-p2": "登陆交易所后，组织空投、糖果等活动。",
+      "item5-p1": "探索TRON生态中更多落地应用。",
+      "item5-p2": "GOC孵化器，帮助更多TRON社区项目落地。"
+    },
+    "Footer": {
+      "twitter": "Twitter",
+      "telegram": "Telegram",
+      "problem": "联系我们"
+    }
+  },
+  "GocToken": {
+    "Header": {
+      "menu1": "GOC交易所"
+    },
+    "Kv": {
+      "title": "什么是GOC？",
+      "p1": "GOC是由Game of Chain发行的代币，简称“GOC”。",
+      "p2": "GOC币是基于TRON发行的去中心化的区块链数字资产，它是基于TRON区块链的TRC 20标准代币。发行总量恒定为100亿个，且保证永不增发。"
+    },
+    "Value": {
+      "title": "GOC价值",
+      "item1-title": "抵扣GOC平台交易手续费",
+      "item1-text": [
+        "目前GOC交易手续费为0.2%（按收取到的资产数量进行收取）。",
+        "抵扣规则1: 按照持有GOC的额度，区分不同等级降低手续费费率。"
+      ],
+      "item2-title": "抵扣项目方的保证金",
+      "item2-text": [
+        "抵扣上币保证金：100万TRX起（1000万GOC起）。",
+        "押金冻结后，项目方可以分批次解冻，半年后第一批解冻1/2，之后每个月解冻1/12，直到全部解冻。"
+      ],
+      "item3-title": "支付GOC的网络游戏",
+      "item3-text": [
+        "Game of Chain团队会开发基于GOC代币的多款Tron游戏，并且GOC代币在所有游戏里面进行流通。"
+      ],
+      "item4-title": "质押分红",
+      "item4-text": [
+        "GOC质押后24小时开始参与分红。",
+        "分红池每一自然天结算一次。",
+        "分红池 = 每天平台利润*20%"
+      ],
+      "item5-title": "回购销毁机制",
+      "item5-text": [
+        "GOC平台上线后，每个季度将平台利润的20%拿出，按照当时成交价回购GOC。回购的GOC将直接销毁，同时公开，在tronscan上可查。"
+      ]
+    },
+    "Wallet": {
+      "title": "GOC的存储方式",
+      "item1-name": "iTron Wallet",
+      "item2-name": "Cobo Wallet",
+      "item3-name": "麦子钱包"
+    },
+    "Footer": {
+      "twitter": "Twitter",
+      "telegram": "Telegram",
+      "problem": "联系我们"
+    }
+  }
+}
