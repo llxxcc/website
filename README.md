@@ -1,6 +1,6 @@
 # website
 
-> My majestic Nuxt.js project
+> GOC | Game of chain
 
 ## Build Setup
 
