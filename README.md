@@ -1,7 +1,5 @@
 # website
 
-> GOC | Game of chain
-
 ## Build Setup
 
 ``` bash
