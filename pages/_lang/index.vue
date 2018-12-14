@@ -874,6 +874,22 @@ export default {
 @media (max-width: 1370px) {
   .index {
     .fullpage-wp {
+      .page-1 {
+        .content {
+          top: 25.5%;
+          .text1 {
+            font-size: 64px;
+          }
+          .text2 {
+            font-size: 54px;
+          }
+        }
+        .orn {
+          position: absolute;
+          bottom: -234px;
+          right: 0px;
+        }
+      }
       .page-5 {
         ul:nth-child(2) {
           top: 25%;

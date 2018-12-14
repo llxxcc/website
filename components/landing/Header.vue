@@ -6,7 +6,11 @@
       </nuxt-link>
     </div>
     <ul class="menu">
-      <li>{{$t('GocToken.Header.menu1')}}</li>
+      <li>
+        <a style="color: #fff; text-decoration: none;" target="_blank" href="https://market.goc.network/">
+          {{$t('GocToken.Header.menu1')}}
+        </a>
+      </li>
     </ul>
     <div class="language" @click.stop="toggleLangMenu">
       <img class="show-img" :src="require(`~/assets/imgs/${$store.state.locale}.png`)"/>
@@ -15,7 +19,7 @@
         <nuxt-link
           class="item"
           v-for="(v, k) in langMap"
-          :to="'/' + v + '/use-goc'"
+          :to="'/' + v + url"
           :key="k">
           <img :src="require(`~/assets/imgs/${v}.png`)" alt="">
         </nuxt-link>
@@ -26,6 +30,9 @@
 
 <script>
 export default {
+  props: {
+    url: String
+  },
   data() {
     return {
       loginDialog: false,
