@@ -59,7 +59,13 @@ module.exports = {
   generate: {
     routes: [
       '/en/use-goc',
-      '/zh/use-goc'
+      '/zh/use-goc',
+      '/en/private-placement',
+      '/zh/private-placement',
+      '/en/incentive-plan',
+      '/zh/incentive-plan',
+      '/en/dividend',
+      '/zh/dividend'
     ]
   },
 

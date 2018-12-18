@@ -115,7 +115,7 @@
       "p3": "3. GOC can be used as well as traded on GOC's DAPP platform based on TRON in the future.",
       "ps": "Note：",
       "ps1": "1. The first dividend will start at December 21, 2018. The snapshot will be taken at 00:00 each Friday (UTC).",
-      "ps2": "2. The airdrop for GOC exchange users will start at December 17, 2018.",
+      "ps2": "2. The airdrop for GOC exchange users will start at December 19, 2018.",
       "ps3": "3、地址公布：",
       "unit": "billion",
       "th1": "地址",
@@ -137,14 +137,14 @@
   },
   "Placement": {
     "Kv": {
-      "title": "GOC additional round of private placement launched",
+      "title": "An additional round of private placement of GOC",
       "p1": "",
       "p2": ""
     },
     "Use": {
       "title": "Introduction",
       "p1": "After fully discussion GOC team is determined to start an additional round of private placement from a half amount of token for the team motivation (1 billion GOC), GOC team hopes to share the development benefits of the GOC platform with long-term supporters, and will use the funds raised for the promotion of the GOC platform.",
-      "p2": "Private placement time: Dec 15 2018-Dec 31 2018",
+      "p2": "Private placement time: Dec 14, 2018,14:00 (UTC) —Dec 31, 2018, 16:00(UTC)",
       "p3": "Private equity: 1 million TRX or more",
       "p4": "The price in the private placement: 0.2-0.22TRX"
     },
@@ -159,12 +159,12 @@
       "p3": "3. Private equity: 3 million TRX or more",
       "p3-1": "Price: 0.2TRX",
       "p3-2": "Locking period: 6 months",
-      "p4": "4. Participants who take part in the private placement in the period of 2018.12.15-2018.12.22 will receive an additional 5% GOC token.",
+      "p4": "4. Participants who take part in the private placement in the period of Dec 14, 2018,14:00 (UTC) —Dec 22, 2018, 15:59 (UTC) will receive an additional 5% GOC token.",
       "p5": "5. After the lockout period is reached, the locked tokens will be unlocked 10% every half month, and all tokens will be unlocked after five months."
     },
     "Wallet": {
       "title": "Participate",
-      "p": "Deposit the TRX to the address XXXX and GOC team will count the total amount of each address at Dec 31, 2018. Afterward, the GOC token will be transferred into the corresponding payers' address and set the lockout period according to the corresponding time based on total TRX amount in Private Placement Rules.",
+      "p": "Send email to token@goc.network, we will contact you. GOC team will count the total amount of each address at Dec 31, 2018, 15:59 (UTC). Afterward, the GOC token will be transferred into the corresponding payers' address in 48 hours and set the lockout period according to the corresponding time based on total TRX amount in Private Placement Rules.",
       "tip": "Tip:",
       "note": "Do not use traditional centralized exchange address for the private placement TRX transfers."
     },
@@ -178,26 +178,46 @@
     "Kv": {
       "title": "GOC DEX Incentive Plan",
       "p1": "Since the trial operation of GOC the decentralized exchange (hereinafter referred to as GOC DEX), various indicators have grown steadily and have received enthusiastic support from users in the community.",
-      "p2": "Due to that fact, GOC team decided to officially launch the incentive plan on December 17, 2018, participants and supporters of GOC DEX will receive GOC token incentives.",
+      "p2": "GOC team decided to officially launch the incentive plan on December 19, 2018, participants and supporters of GOC DEX will receive GOC token incentives.",
       "p3": "The incentive plan includes the following activities."
     },
     "Use": {
       "title": "No.1 Daily rewards for active users",
-      "p1": "Settlement period: Once a day, 18:00 on the previous day (UTC+8) - 18:00 on the following day (UTC+8)",
-      "p2": "Rules: Users whose total transaction amount in GOC DEX reaches 1000TRX will be given 100GOC tokens as an incentive."
+      "p1": "Settlement period: Once a day, 18:00 on the previous day (UTC+8) - 18:00 on current day (UTC+8)",
+      "p2": "Rules: Users whose total transaction amount in GOC DEX reaches 10,000 TRX will be given 25 GOC tokens as an incentive."
     },
     "Value": {
       "title": "No.2 Trading rankings",
       "p1": "Settlement period: Once a week, Sunday 18:00 (UTC+8) - Next Sunday 18:00 (UTC+8)",
-      "p2": "Rules: Top 100 users in the rank of the total transaction amount in GOC DEX will receive a considerable amount of GOC token as a reward.",
-      "p2-1": "First place: 1GOC",
-      "p2-2": "Second place: 1GOC",
-      "p2-3": "Third place: 1GOC",
-      "p2-4": "Fourth place: 1GOC",
-      "p2-5": "Fifth place: 1GOC",
-      "p2-6": "6th-10th place: 1GOC",
-      "p2-7": "11th-20th place: 1GOC",
-      "p2-8": "20th-30th place: 1GOC"
+      "p2": "Rules: Top 10 users in the rank of the total transaction amount in GOC DEX will receive a considerable amount of GOC token as a reward.",
+      "p2-1": "First place: 500,000 GOC",
+      "p2-2": "Second place: 200,000 GOC",
+      "p2-3": "Third place: 100,000 GOC",
+      "p2-4": "Fourth place — Tenth place： 30,000 GOC per person",
+      "p2-5": "",
+      "p2-6": "",
+      "p2-7": "",
+      "p2-8": ""
+    },
+    "Footer": {
+      "twitter": "Twitter",
+      "telegram": "Telegram",
+      "problem": "Contact Us"
+    }
+  },
+  "Dividend": {
+    "Kv": {
+      "title": "The first dividend of the trading fee of GOC (TGIF event) is about to start."
+    },
+    "Use": {
+      "title": "Thank God it's Friday!",
+      "p1": "50% of the trading fees of GOC exchange and it will be distributed once a week in Friday",
+      "p2": "A few days ago several GOC holders have reported to GOC team that they've transferred a part of their GOC in the Ledger hardware wallet, however the function of token freeze of TRC20 is not available in Ledger, therefore those users will not receive the first dividend from GOC on Dec 21.",
+      "p3": "For the consideration of each investor, GOC team decided that the plan of the first dividend for the token frozen of GOC originally scheduled to start on December 21, will change to a new plan which will be in form of issuing dividends base on the holding amount of GOC.And after the Ledger team supports the TRC20 token, the original plan will be restored.",
+      "p4": "The system of dividend by token holding amount will last for two weeks.",
+      "p5": "First round: 2018/12/14 00:00 (UTC) to 2018/12/20 23:59 (UTC)",
+      "p6": "Second round: 2018/12/21 00:00 (UTC) to 2018/12/27 23:59 (UTC)",
+      "p7": "If it would go smoothly for Ledger team's support of the TRC20, We will officially start this dividend plan based on the token frozen amount at 2018/12/28 00:00 (UTC). The specific details are subject to the official announcement."
     },
     "Footer": {
       "twitter": "Twitter",
